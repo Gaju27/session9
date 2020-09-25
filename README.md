@@ -131,7 +131,8 @@ def timed(fn, reps):
 
     return inner
 ```
-
+## Logs
+![Logs](https://github.com/Gaju27/session9/blob/master/logs.JPG)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
