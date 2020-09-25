@@ -6,8 +6,8 @@
 
 ## Main and test functions
 
-   1. session9.py
-   2. test_session9.py
+   1. [session9.py](https://github.com/Gaju27/session9/blob/master/session9.py)
+   2. [test_session9.py](https://github.com/Gaju27/session9/blob/master/test_session9.py)
 
 ## Decorators
     
@@ -77,7 +77,7 @@ def logger_message(fn):
     return return_logger
 
 ```
-Simple logging function written logger.py
+Simple logging function written [logger.py](https://github.com/Gaju27/session9/blob/master/logger.py)
 
 ## Authenticate
 We authenticate the user for the correct password. If the user enters the wrong password it will throw an error message.
