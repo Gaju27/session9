@@ -33,6 +33,8 @@ def test_decorate_basic_test():
 ### Odd_timer
 Function has to run only for odd seconds.
 
+
+
  - Below program accepts function and runs only if the current times has odd seconds. 
   - if it was in even seconds it would error out.
 
@@ -133,6 +135,20 @@ def timed(fn, reps):
 ```
 ## Logs
 ![Logs](https://github.com/Gaju27/session9/blob/master/logs.JPG)
+
+## Function used
+
+   add
+   mul
+   div
+   odd_timer
+   sub
+   logger_message
+   set_password
+   authenticate
+   timed
+   decorate
+   calc_fib_recurse
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
