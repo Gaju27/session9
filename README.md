@@ -36,7 +36,7 @@ Function has to run only for odd seconds.
 
 
  - Below program accepts function and runs only if the current times has odd seconds. 
-  - if it was in even seconds it would error out.
+  - if it was in even seconds it would error out. [click here to see](https://github.com/Gaju27/session9/blob/master/log_odd_timer.JPG)
 
 ```
 
